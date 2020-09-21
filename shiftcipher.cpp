@@ -72,7 +72,7 @@ int main (){
     while (!stop) 
     {
         cout << "Menu : " <<endl;
-        cout << "1. Enkripisi " <<endl;
+        cout << "1. Enkripsi " <<endl;
         cout << "2. Dekripsi " <<endl;
         cout << "3. Exit " <<endl;
         cout << "Pilih menu : "; cin >> pil;
